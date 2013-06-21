@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "dependencies": {
     "jquery": "latest",
-    "bootstrap": "2.3.2",
-    "bootswatch": "latest"
+    "normalize-css": "latest",
+    "responsive-nav": "~1.0.14"
   }
 }
